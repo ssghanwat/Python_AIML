@@ -4,7 +4,7 @@ def Multiplication(Value1, Value2):
     return ans
 
 def main():
-    No1 = 10
+    No1 = 10   #local varaible
     No2 = 0
     Result = 0
     
